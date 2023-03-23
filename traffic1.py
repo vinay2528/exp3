@@ -6,6 +6,8 @@ import warnings
 warnings.filterwarnings('ignore')
 from prophet import Prophet
 
+//CODE START FROM HERE
+
 df=pd.read_csv("C:\\Users\\HP\\Desktop\\Traffic data.csv")
 
 df.head()
